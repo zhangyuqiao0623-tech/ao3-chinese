@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：yuqiao
 更新时间：2026-9-11
 
@@ -17,6 +17,8 @@ Jericho：耶利哥
 Cyber Life：模控生命
 Software Instability：软体不稳定
 Thirium 310：蓝血
+Lieutenant：警督
+android：仿生人
   
 
 禁翻词条
